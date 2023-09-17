@@ -16,7 +16,7 @@ hosted on arXiv
 ```
 pip install dominate
 ```
-3. Clone this repository
+3. Clone the repository
 ```
 git clone https://github.com/carolineec/EverybodyDanceNow
 ```
